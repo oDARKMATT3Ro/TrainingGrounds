@@ -23,3 +23,4 @@ Email. info@imagitechstudios.com
 
 * TG00 Initial Commit
 * TG01 Imported Assets
+* TG02 Created Player Staging Scene with FPS Player Prefab
